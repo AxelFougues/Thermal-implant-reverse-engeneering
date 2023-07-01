@@ -17,6 +17,6 @@ Testing, analyzing and hopefully hacking one of the first commercial NFC powered
 
 ### About the installation
 
-- The implant inside the injector is covered in a transparent viscous and sticky substance. My guess is it’s lubricant although I don’t see the point of covering the implant instead of the needle.
+- The implant inside the injector is covered in lubricant.
 
 - Needle diameter: 3 mm.
