@@ -1,0 +1,17 @@
+Disclaimer: This was a very rough test and there are many thing to improve :sweat_smile:
+
+Both the chip and a thermal probe ( IDM99IV RS PRO) were stuck to the side of a plastic 3-4L container with a drop of hot glue. It was filled with hot tap water. While it cooled I took measurements aprox. every 2 minutes.
+It gets messy at 39 C, since that’s pretty close to ambient I had to start adding ice cubes. I completely ignore the importance of stirring until 34 C when I finally come to my senses. That could partially explain the chip’s behavior on that range but still… suspicious?
+The not-so-slight constant offset could be attributed to the chip having more surface area in contact with the plastic container wall.
+
+I will be doing it again someday with a smaller container to make things faster. A stir bar and more regular measurements.
+I wonder how I can avoid sticking the chip to a wall. A waterproof version of this 1 maybe?
+
+Edit: My impressions?
+Excluding the chaos under 40C, I’m kinda neutral about it. I remember @JennyMcLane , I think, posted something similar about the xBT and it didn’t look great. I can’t find it :confused: but based on that I expected worse.
+But I also hoped for better. I don’t know how much my crappy test conditions influenced the measurements but I don’t see the point of giving us two decimal points when you have almost a degree of variation compared to a presumably accurate probe. I don’t see either what kind of meaningful statistics we could do with it other than here’s when you had fever and here’s when you were in hypothermia…
+But I’ll wait until I’ve done a test I can be proud of before taking any conclusions :sweat_smile:
+
+Edit: The full test is on tape if someone wants it. I won’t be posting it online.
+
+Edit again: Notice how consistently it flattens out at exactly the human body temperature? Sure I forgot to stir but really? Thats the suspicious part to me… Unless 37C was the ambient temperature at that moment, that could also be a thing.
