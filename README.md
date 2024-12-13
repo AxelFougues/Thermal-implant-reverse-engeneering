@@ -12,6 +12,7 @@ Testing, analyzing and hopefully hacking one of the first commercial NFC powered
 - Dimensions: 13*3mm.
 
 - The IC reads : “D21 1301 D035”.
+    Suspected: NXP NCF3310AHN
 
 - The chip operates fine at room temperature.
 
